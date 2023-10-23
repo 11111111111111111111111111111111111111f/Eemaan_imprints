@@ -1,0 +1,18 @@
+/* used colors */
+
+:root {
+    --red: red;
+    /* --crimson: crimson; */
+    --crimson : #006453;
+    --darkcrimson : #013a30;
+    --blue: blue;
+    --darkblue: darkblue;
+    --orange: orange;
+    --black: black;
+    --grey: grey;
+    --ccc: #ccc;
+    --white: white;
+    --brown: brown;
+    --green: green;
+    --lime: lime;
+}
